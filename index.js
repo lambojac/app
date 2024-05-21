@@ -5,9 +5,7 @@
 // const port = 9000; // Choose any port you prefer
 // app.use(express.json());
 // // Initialize Supabase client
-// const supabaseUrl = 'https://easyaiqtuqvuxjmjfyzd.supabase.co';
-// const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVhc3lhaXF0dXF2dXhqbWpmeXpkIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTcxNjIwNDcwMSwiZXhwIjoyMDMxNzgwNzAxfQ.q0uiWSo-JGNf_p00o6eL8WEKLYVP7TbHOLwSV5Jr_Sk';
-// const supabase = createClient(supabaseUrl, supabaseKey);
+
 
 // // Define routes
 // app.get('/', async (req, res) => {
